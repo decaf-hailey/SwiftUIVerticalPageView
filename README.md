@@ -5,6 +5,18 @@
 [![License](https://img.shields.io/cocoapods/l/SwiftUIVerticalPageView.svg?style=flat)](https://cocoapods.org/pods/SwiftUIVerticalPageView)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftUIVerticalPageView.svg?style=flat)](https://cocoapods.org/pods/SwiftUIVerticalPageView)
 
+## What's for
+To use vertical PageView,
+
+customizing native (horizontal) PageView was not a good choice for caring about ignoring safearea.
+
+It has only one file but many cases were considered.
+
+It would be used often, because designers like this style very much.
+
+Please open Example and enjoy it!
+
+
 ## Example
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
