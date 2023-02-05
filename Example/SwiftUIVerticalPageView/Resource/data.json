@@ -1,0 +1,28 @@
+
+[
+    {
+        "id": 308178,
+        "picture": "https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/104433913_3899401883468437_1958404046937379557_n.jpg?stp=cp0_dst-jpg_e15_p640x640_q65&_nc_cat=109&ccb=1-7&_nc_sid=85a577&_nc_ohc=TfAxkcTCWe8AX9Ichdm&_nc_ht=scontent-ssn1-1.xx&oh=00_AfAVKcKyYGvegZmsyPssK7_N6SPPQ6VTTq7Hh3BsIsonQQ&oe=6405A1F5",
+        "upside": false,
+        "name" : "IU",
+        "desc" : "As of August 2022, IU has donated a total of ₩4.3 billion since her debut, and over ₩1.5 billion in 2022 alone. IU has donated all the proceeds from her fan meetings since 2011. Since February 2012, IU has been an ambassador for South Korea's National Police Agency in their anti-bullying campaigns in schools; she was made an honorary member of the police force in 2013 before being promoted to an honorary senior police officer in 2014 for a two-year term.",
+    },
+    {
+        "id": 308179,
+        "picture": "https://e1.pxfuel.com/desktop-wallpaper/138/1009/desktop-wallpaper-bts-summer-package-in-korea-summer-package-in-korea.jpg",
+        "upside": true,
+        "name" : "BTS",
+        "desc" : "BTS was formed in 2010, after Big Hit Entertainment CEO Bang Si-hyuk wanted to form a hip hop group around RM (Kim Nam-joon), an underground rapper who was well known on the music scene in Seoul. BTS was originally supposed to be a hip hop group, but, seeing falling album sales, he changed his plans, thinking a different path would be more marketable.",
+        
+    },
+    
+    {
+        "id": 308180,
+        "picture": "https://image.fnnews.com/resource/media/image/2022/08/08/202208080917531874_l.jpg",
+        "upside": true,
+        "name" : "NewJeans",
+        "desc" : "NewJeans (Korean: 뉴진스; RR: Nyujinseu) is a South Korean girl group formed by ADOR, a subsidiary of Hybe Corporation. The group is composed of five members: Minji, Hanni, Danielle, Haerin and Hyein. The group pre-released their debut single \"Attention\" on July 22, 2022, preceding their debut eponymous extended play, which was released on August 1, 2022.",
+        
+        
+    },
+]

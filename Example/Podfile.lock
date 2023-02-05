@@ -1,0 +1,16 @@
+PODS:
+  - SwiftUIVerticalPageView (0.1.0)
+
+DEPENDENCIES:
+  - SwiftUIVerticalPageView (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftUIVerticalPageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftUIVerticalPageView: 3f10da6ce6b1a97d8ac58f54ebaf1e47dcd99704
+
+PODFILE CHECKSUM: 4b2eec0fcdc3e20639680d5527907547dca31e3e
+
+COCOAPODS: 1.11.3

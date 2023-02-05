@@ -1,0 +1,22 @@
+{
+  "name": "SwiftUIVerticalPageView",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftUIVerticalPageView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/monolith-hyejinkwak/SwiftUIVerticalPageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "monolith-hyejinkwak": "hailey.plist@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/monolith-hyejinkwak/SwiftUIVerticalPageView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SwiftUIVerticalPageView/Classes/**/*"
+}
