@@ -7,13 +7,14 @@
 
 ## Example
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
 <img src ="https://user-images.githubusercontent.com/124033750/216821148-fc330ff5-8deb-459c-af9c-f8008543bb60.gif">
 
 
 ## Requirements
-- iOS 14+\n
-- Swift 5+\n
-- SwiftUI 2+\n 
+- iOS 14+
+- Swift 5+
+- SwiftUI 2+
 
 ## Installation
 
