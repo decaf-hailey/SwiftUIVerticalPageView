@@ -11,9 +11,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 
 ## Requirements
-iOS 14+
-Swift 5+
-SwiftUI 2+, 
+- iOS 14+\n
+- Swift 5+\n
+- SwiftUI 2+\n 
 
 ## Installation
 
