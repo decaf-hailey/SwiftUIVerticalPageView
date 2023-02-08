@@ -574,6 +574,7 @@
 			baseConfigurationReference = 01BEFC44440E739C59183033 /* Pods-SwiftUIVerticalPageView_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 1.0.2;
 				INFOPLIST_FILE = SwiftUIVerticalPageView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -594,6 +595,7 @@
 			baseConfigurationReference = F37E47E95A1B374652D09ECD /* Pods-SwiftUIVerticalPageView_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 1.0.2;
 				INFOPLIST_FILE = SwiftUIVerticalPageView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
