@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         let childVC = UIHostingController(rootView: ContentView())
         let childView = childVC.view!
         childView.translatesAutoresizingMaskIntoConstraints = false
-        addChild(childVC)
+        addChildViewController(childVC)
         view.addSubview(childView)
         NSLayoutConstraint.activate([
             childView.centerXAnchor.constraint(equalTo: view.centerXAnchor),
